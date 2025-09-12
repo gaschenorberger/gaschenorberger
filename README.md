@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Alvise<br>🚀  Areas of Expertise:<ul><li>Web Development</li><li>Automation and Python Scripts</li><li>SQL Databases</li></ul>🌱 Currently, I’m honing my skills and creating solutions that make a difference.<br>🎯 Always seeking new challenges and opportunities to learn and grow.</p>Add commentMore actions
+<p align="left">My name is Gabriel Alvise<br>🚀  Areas of Expertise:<ul><li>Web Development</li><li>Automation and Python Scripts</li><li>SQL Databases</li></ul>🌱 Currently, I’m honing my skills and creating solutions that make a difference.<br>🎯 Always seeking new challenges and opportunities to learn and grow.</p>
 
 ###
 
