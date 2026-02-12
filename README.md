@@ -1,61 +1,100 @@
-<h2 align="left">About Me</h2>
+# 👋 Olá, eu sou Gabriel Alvise
 
-###
+🐍 Programador Python com 2 anos de experiência profissional  
+⚙️ Especializado em automações, web scraping e APIs com FastAPI  
+🏢 Experiência em desenvolvimento de soluções internas para empresas  
+🎓 Estudante de Engenharia de Software  
 
-<p align="left">My name is Gabriel Alvise<br>🚀  Areas of Expertise:<ul><li>Web Development</li><li>Automation and Python Scripts</li><li>SQL Databases</li></ul>🌱 Currently, I’m honing my skills and creating solutions that make a difference.<br>🎯 Always seeking new challenges and opportunities to learn and grow.</p>
+---
 
-###
+## 🧑‍💻 Sobre mim
 
-<h2 align="left">Techs</h2>
+Atuo como Desenvolvedor Python Júnior há 2 anos, desenvolvendo automações corporativas, integrações de sistemas e soluções para otimização de processos manuais.
 
-###
+Tenho experiência prática com:
+- Web Scraping estruturado
+- Automação de tarefas com Selenium
+- Desenvolvimento de APIs com FastAPI
+- Integração com sistemas internos
+- Manipulação e persistência de dados com SQL (PostgreSQL e Oracle)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
+Meu foco atual é evoluir como desenvolvedor backend e arquiteto de soluções baseadas em Python.
 
-###
+---
 
-<h2 align="left">Stats</h2>
+## 🚀 Projetos em Destaque
 
-###
+### 📊 Preço Certo — Web Scraping
+🔗 https://github.com/gaschenorberger/Preco-Certo  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaschenorberger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaschenorberger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaschenorberger&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+Projeto de coleta automatizada de preços para monitoramento de promoções.  
+Aplicação prática de scraping estruturado, tratamento de dados e persistência.
 
-###
+**Tecnologias:** Python, Selenium, Web Scraping
 
-<h2 align="left">Social Media</h2>
+---
 
-###
+### 🤖 Automação Receitanet BX (Projeto Corporativo)
 
-<div align="left">
-  <a href="schenorberger123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/gabrielalvise_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-alvise" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+Automatização do aplicativo Receitanet BX para download automático de arquivos fiscais (ICMS, PIS/COFINS, ECF, ECD).
 
-###
+Desenvolvi:
+- Backend com FastAPI para integração ao sistema interno da empresa
+- Requisições automatizadas
+- Processamento e organização de arquivos
+
+**Tecnologias:** Python, FastAPI, Automação, Integração de Sistemas
+
+---
+
+### 🖥 Interface Robôs Certezza
+🔗 https://github.com/gaschenorberger/Interface-Robos-Certezza  
+
+Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial, centralizando diversos scripts de automação em uma única interface.
+
+- Interface com Tkinter
+- Robôs com Selenium
+- Web scraping integrado
+- Organização e execução simplificada para usuários não técnicos
+
+**Tecnologias:** Python, Tkinter, Selenium
+
+---
+
+### 🎙 Projeto Talkly (Em Desenvolvimento)
+🔗 https://github.com/gaschenorberger/Projeto-Talkly  
+
+Plataforma de aprendizado de inglês baseada em Inteligência Artificial.
+
+O sistema:
+- Realiza nivelamento do usuário
+- Personaliza treinos
+- Foca em conversação e escuta
+- Adapta-se ao tempo e objetivos do aluno
+
+**Tecnologias:** Python, FastAPI, IA
+
+---
+
+## 🛠 Stack Principal
+
+- Python
+- FastAPI
+- Selenium
+- Web Scraping
+- SQL
+- PostgreSQL
+- Oracle
+- Tkinter
+- Git
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/gabriel-alvise/  
+📧 Email: gabrielalvisedev@gmail.com  
+
+---
+
+⭐ Sempre buscando evoluir tecnicamente e construir soluções eficientes que gerem impacto real.
