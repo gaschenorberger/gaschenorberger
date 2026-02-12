@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Gabriel Alvise
 
-🐍 Programador Python com 2 anos de experiência profissional  
-⚙️ Especializado em automações, web scraping e APIs com FastAPI  
-🏢 Experiência em desenvolvimento de soluções internas para empresas  
-🎓 Estudante de Engenharia de Software  
+- Programador Python com 2 anos de experiência profissional  
+- Especializado em automações, web scraping e APIs com FastAPI  
+- Experiência em desenvolvimento de soluções internas para empresas  
+- Estudante de Engenharia de Software  
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Atuo como Desenvolvedor Python Júnior há 2 anos, desenvolvendo automações corporativas, integrações de sistemas e soluções para otimização de processos manuais.
 
@@ -22,9 +22,9 @@ Meu foco atual é evoluir como desenvolvedor backend e arquiteto de soluções b
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 📊 Preço Certo — Web Scraping
+###  Preço Certo — Web Scraping
 🔗 https://github.com/gaschenorberger/Preco-Certo  
 
 Projeto de coleta automatizada de preços para monitoramento de promoções.  
@@ -34,7 +34,7 @@ Aplicação prática de scraping estruturado, tratamento de dados e persistênci
 
 ---
 
-### 🤖 Automação Receitanet BX (Projeto Corporativo)
+###  Automação Receitanet BX (Projeto Corporativo)
 
 Automatização do aplicativo Receitanet BX para download automático de arquivos fiscais (ICMS, PIS/COFINS, ECF, ECD).
 
@@ -47,7 +47,7 @@ Desenvolvi:
 
 ---
 
-### 🖥 Interface Robôs Certezza
+###  Interface Robôs Certezza
 🔗 https://github.com/gaschenorberger/Interface-Robos-Certezza  
 
 Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial, centralizando diversos scripts de automação em uma única interface.
@@ -61,7 +61,7 @@ Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial
 
 ---
 
-### 🎙 Projeto Talkly (Em Desenvolvimento)
+###  Projeto Talkly (Em Desenvolvimento)
 🔗 https://github.com/gaschenorberger/Projeto-Talkly  
 
 Plataforma de aprendizado de inglês baseada em Inteligência Artificial.
@@ -76,7 +76,7 @@ O sistema:
 
 ---
 
-## 🛠 Stack Principal
+##  Stack Principal
 
 - Python
 - FastAPI
@@ -90,7 +90,7 @@ O sistema:
 
 ---
 
-## 📫 Contato
+##  Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/gabriel-alvise/  
 📧 Email: gabrielalvisedev@gmail.com  
