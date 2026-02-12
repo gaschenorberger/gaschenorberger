@@ -1,19 +1,9 @@
-# 👋 Olá! Sou Gabriel Alvise
+<h2 align="left">About Me</h2>
 
-## 🧑‍💻 Sobre mim
-Programador Python com 2 anos de experiência em automações, raspagem de dados e APIs com FastAPI.
+###
 
-## 🛠 Tech Stack
-Python | FastAPI | Selenium | SQL | Docker | Celery | ...
+<p align="left">My name is Gabriel Alvise<br>🚀  Areas of Expertise:<ul><li>Web Development</li><li>Automation and Python Scripts</li><li>SQL Databases</li></ul>🌱 Currently, I’m honing my skills and creating solutions that make a difference.<br>🎯 Always seeking new challenges and opportunities to learn and grow.</p>
 
-## 📌 Projetos em destaque
-- 🐍 **Automação X** — Explicação breve do que faz  
-- ⚙ **API FastAPI Y** — Link e descrição  
-- 📊 **Webscraping Z** — Resultado / uso
-
-## 📫 Contato
-- LinkedIn: (link)
-- Email: (profissional)
 ###
 
 <h2 align="left">Techs</h2>
