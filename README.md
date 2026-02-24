@@ -61,21 +61,6 @@ Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial
 
 ---
 
-###  Projeto Talkly (Em Desenvolvimento)
-🔗 https://github.com/gaschenorberger/Projeto-Talkly  
-
-Plataforma de aprendizado de inglês baseada em Inteligência Artificial.
-
-O sistema:
-- Realiza nivelamento do usuário
-- Personaliza treinos
-- Foca em conversação e escuta
-- Adapta-se ao tempo e objetivos do aluno
-
-**Tecnologias:** Python, FastAPI, IA
-
----
-
 ##  Stack Principal
 
 - Python
