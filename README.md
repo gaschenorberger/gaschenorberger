@@ -1,6 +1,7 @@
 # Olá, eu sou Gabriel Alvise
 
-- Desenvolvedor com foco em **Python e Java**
+- Desenvolvedor com **2 anos de experiência profissional**
+- Foco em **Python e Java**
 - Experiência com automações, scraping e sistemas corporativos
 - Atuação em **backend e desenvolvimento de interfaces web (JSF/PrimeFaces)**
 - Estudante de Engenharia de Software
