@@ -1,30 +1,32 @@
 # Olá, eu sou Gabriel Alvise
 
-- Programador Python com 2 anos de experiência profissional  
-- Especializado em automações, web scraping e APIs com FastAPI  
-- Experiência em desenvolvimento de soluções internas para empresas  
-- Estudante de Engenharia de Software  
+- Desenvolvedor com foco em **Python e Java**
+- Experiência com automações, scraping e sistemas corporativos
+- Atuação em **backend e desenvolvimento de interfaces web (JSF/PrimeFaces)**
+- Estudante de Engenharia de Software
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
-Atuo como Desenvolvedor Python Júnior há 2 anos, desenvolvendo automações corporativas, integrações de sistemas e soluções para otimização de processos manuais.
+Atuo como Desenvolvedor Júnior com experiência tanto em **Python** quanto em **Java (Spring Boot)**, participando do desenvolvimento de soluções internas voltadas à automação de processos e sistemas corporativos.
 
-Tenho experiência prática com:
-- Web Scraping estruturado
-- Automação de tarefas com Selenium
-- Desenvolvimento de APIs com FastAPI
+Tenho vivência prática em:
+
+- Desenvolvimento de automações e web scraping com Python
+- Criação de APIs com FastAPI
+- Desenvolvimento de sistemas web com **Java, Spring Boot, JSF e PrimeFaces**
+- Construção de interfaces e fluxos de navegação (frontend server-side)
 - Integração com sistemas internos
 - Manipulação e persistência de dados com SQL (PostgreSQL e Oracle)
 
-Meu foco atual é evoluir como desenvolvedor backend e arquiteto de soluções baseadas em Python.
+Atualmente, estou focado em evoluir como **desenvolvedor backend**, ampliando meus conhecimentos em arquitetura de sistemas e aplicações corporativas escaláveis.
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
-###  Preço Certo — Web Scraping
+### Preço Certo — Web Scraping
 🔗 https://github.com/gaschenorberger/Preco-Certo  
 
 Projeto de coleta automatizada de preços para monitoramento de promoções.  
@@ -34,12 +36,13 @@ Aplicação prática de scraping estruturado, tratamento de dados e persistênci
 
 ---
 
-###  Automação Receitanet BX (Projeto Corporativo)
+### Automação Receitanet BX (Projeto Corporativo)
 
 Automatização do aplicativo Receitanet BX para download automático de arquivos fiscais (ICMS, PIS/COFINS, ECF, ECD).
 
 Desenvolvi:
-- Backend com FastAPI para integração ao sistema interno da empresa
+
+- Backend com FastAPI para integração ao sistema interno
 - Requisições automatizadas
 - Processamento e organização de arquivos
 
@@ -47,39 +50,39 @@ Desenvolvi:
 
 ---
 
-###  Interface Robôs Certezza
+### Interface Robôs Certezza
 🔗 https://github.com/gaschenorberger/Interface-Robos-Certezza  
 
-Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial, centralizando diversos scripts de automação em uma única interface.
+Sistema executável para centralização e execução de automações, facilitando o uso por usuários não técnicos.
 
 - Interface com Tkinter
 - Robôs com Selenium
 - Web scraping integrado
-- Organização e execução simplificada para usuários não técnicos
+- Execução simplificada
 
 **Tecnologias:** Python, Tkinter, Selenium
 
 ---
 
-##  Stack Principal
+## Stack Principal
 
-- Python
+- **Python**
+- **Java (Spring Boot)**
+- **JSF / PrimeFaces**
 - FastAPI
 - Selenium
 - Web Scraping
 - SQL
-- PostgreSQL
-- Oracle
-- Tkinter
+- PostgreSQL / Oracle
 - Git
 
 ---
 
-##  Contato
+## Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/gabriel-alvise/  
 📧 Email: gabrielalvisedev@gmail.com  
 
 ---
 
-Sempre buscando evoluir tecnicamente e construir soluções eficientes que gerem impacto real.
+Sempre buscando evoluir tecnicamente e construir soluções que gerem impacto real.
