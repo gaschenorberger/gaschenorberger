@@ -3,14 +3,14 @@
 - Desenvolvedor com **2 anos de experiência profissional**
 - Foco em **Python e Java**
 - Experiência com automações, scraping e sistemas corporativos
-- Atuação em **backend e desenvolvimento de interfaces web (JSF/PrimeFaces)**
+- Atuação em **backend utilizando FastAPI e SpringBoot**
 - Estudante de Engenharia de Software
 
 ---
 
 ## Sobre mim
 
-Atuo como Desenvolvedor Júnior com experiência tanto em **Python** quanto em **Java (Spring Boot)**, participando do desenvolvimento de soluções internas voltadas à automação de processos e sistemas corporativos.
+Atuo como Desenvolvedor Júnior com experiência tanto em **Python** quanto em **Java**, participando do desenvolvimento de soluções internas voltadas à automação de processos e sistemas corporativos.
 
 Tenho vivência prática em:
 
