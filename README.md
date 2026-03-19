@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Atuo como Desenvolvedor Júnior com experiência tanto em **Python** quanto em **Java**, participando do desenvolvimento de soluções internas voltadas à automação de processos e sistemas corporativos.
+Atuo como Desenvolvedor com experiência tanto em **Python** quanto em **Java**, participando do desenvolvimento de soluções internas voltadas à automação de processos e sistemas corporativos.
 
 Tenho vivência prática em:
 
