@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Alvise
+# Olá, eu sou Gabriel Alvise
 
 - Programador Python com 2 anos de experiência profissional  
 - Especializado em automações, web scraping e APIs com FastAPI  
