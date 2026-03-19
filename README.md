@@ -82,4 +82,4 @@ Sistema executável desenvolvido para a empresa Certezza Consultoria Empresarial
 
 ---
 
-⭐ Sempre buscando evoluir tecnicamente e construir soluções eficientes que gerem impacto real.
+Sempre buscando evoluir tecnicamente e construir soluções eficientes que gerem impacto real.
