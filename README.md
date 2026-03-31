@@ -37,7 +37,7 @@ Aplicação prática de scraping estruturado, tratamento de dados e persistênci
 
 ---
 
-### Sistema Bancário (MetalBank)
+### Sistema Bancário (MetalBank) - Projeto Acadêmico
 
 🔗 https://github.com/jggnoatto/SISTEMA-BANCO
 
