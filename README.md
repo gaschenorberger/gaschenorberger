@@ -37,6 +37,32 @@ Aplicação prática de scraping estruturado, tratamento de dados e persistênci
 
 ---
 
+### Sistema Bancário (MetalBank)
+
+🔗 https://github.com/jggnoatto/SISTEMA-BANCO
+
+Sistema web para gerenciamento de contas bancárias, com foco em segurança, autenticação e operações financeiras básicas.
+
+Permite ao usuário realizar login com CPF e senha, consultar saldo, efetuar depósitos e saques, incluindo regras de segurança como bloqueio por tentativas inválidas e limite diário de saque.
+
+Funcionalidades implementadas:
+
+#### Autenticação com CPF e senha
+- Bloqueio após múltiplas tentativas de login incorretas
+- Consulta de saldo
+- Operações de saque e depósito
+- Controle de limite diário de saque
+- Expiração automática de sessão por inatividade
+
+####  Diferenciais do projeto:
+
+- Modelagem completa de requisitos (funcionais e não funcionais)
+- Definição de regras de negócio voltadas à segurança
+- Estruturação baseada em domínio (autenticação, transações e segurança)
+- Aplicação de conceitos de engenharia de software (UML, casos de uso e rastreabilidade)
+
+**Tecnologias:** Java, SpringBoot, Modelagem de Sistemas
+
 ### Automação Receitanet BX (Projeto Corporativo)
 
 Automatização do aplicativo Receitanet BX para download automático de arquivos fiscais (ICMS, PIS/COFINS, ECF, ECD).
